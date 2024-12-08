@@ -1,4 +1,49 @@
-baseURL: https://example.org/
+baseURL: "https://mancosebas.github.io/qtech/"
 languageCode: en-us
-title: My New Hugo Site
+title: QTech 
 theme: ["PaperMod"]
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  description: "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
+  author: Theme PaperMod
+  # author: ["Me", "You"] # multiple authors
+
+  defaultTheme: auto
+  # disableThemeToggle: true
+  ShowShareButtons: true
+  ShowReadingTime: true
+  # disableSpecial1stPost: true
+  displayFullLangName: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowRssButtonInSectionTermList: true
+  ShowAllPagesInArchive: true
+  ShowPageNums: true
+  ShowToc: true
+  # comments: false
+
+  profileMode:
+    enabled: false
+    title: PaperMod
+    imageUrl: "#"
+    imageTitle: my image
+    # imageWidth: 120
+    # imageHeight: 120
+    buttons:
+      - name: Archives
+        url: archives
+      - name: Tags
+        url: tags
+
+  homeInfoParams:
+    Title: "PaperMod's Demo"
+    Content: >
+      👋 Welcome to demo page of Hugo's theme PaperMod!
+
+      - **PaperMod**  is designed to be clean and simple but fast and responsive theme with useful feature-set that enhances UX.
+
+      - Feel free to show your support by giving us a star 🌟 on GitHub and sharing with your friends and social media .
+
+      - PaperMod is based on theme [Paper](https://github.com/nanxiaobei/hugo-paper/tree/4330c8b12aa48bfdecbcad6ad66145f679a430b3).
