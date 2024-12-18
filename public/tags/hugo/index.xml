@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hugo on QTech</title>
     <link>http://localhost:1313/qtech/tags/hugo/</link>
     <description>Recent content in Hugo on QTech</description>
-    <generator>Hugo -- 0.139.2</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 08 Dec 2024 14:19:41 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/qtech/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
@@ -13,8 +13,7 @@
       <link>http://localhost:1313/qtech/posts/prueba/</link>
       <pubDate>Sun, 08 Dec 2024 14:19:41 -0500</pubDate>
       <guid>http://localhost:1313/qtech/posts/prueba/</guid>
-      <description>&lt;h1 id=&#34;este-es-mi-titulo&#34;&gt;Este es mi titulo&lt;/h1&gt;
-&lt;p&gt;hola esta es una prueba de matematicas en hugo $x = y$&lt;/p&gt;</description>
+      <description>Este es mi titulo hola esta es una prueba de matematicas en hugo $x = y$&#xA;Esto no se como se llama xd&#xA;hola a todos&#xA;esto es una lista:&#xA;primer punto segundo punto Esto es una lista en markdow&#xA;vamos a hacer una tabla</description>
     </item>
   </channel>
 </rss>
